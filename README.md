@@ -1,2 +1,3 @@
 # EC2SSHChanger
-This small python script that will replace key pair of an instance.
+**Welcome to Hemotips's EC2 SSH Changer Script.** 
+-----------------------------
